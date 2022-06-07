@@ -1,0 +1,17 @@
+C:\Users\bruno\OneDrive\Pulpit\funkcje-master\funkcje\bin\Debug\net6.0-windows\funkcje.exe
+C:\Users\bruno\OneDrive\Pulpit\funkcje-master\funkcje\bin\Debug\net6.0-windows\funkcje.deps.json
+C:\Users\bruno\OneDrive\Pulpit\funkcje-master\funkcje\bin\Debug\net6.0-windows\funkcje.runtimeconfig.json
+C:\Users\bruno\OneDrive\Pulpit\funkcje-master\funkcje\bin\Debug\net6.0-windows\funkcje.dll
+C:\Users\bruno\OneDrive\Pulpit\funkcje-master\funkcje\bin\Debug\net6.0-windows\funkcje.pdb
+C:\Users\bruno\OneDrive\Pulpit\funkcje-master\funkcje\obj\Debug\net6.0-windows\funkcje.csproj.AssemblyReference.cache
+C:\Users\bruno\OneDrive\Pulpit\funkcje-master\funkcje\obj\Debug\net6.0-windows\funkcje.Form1.resources
+C:\Users\bruno\OneDrive\Pulpit\funkcje-master\funkcje\obj\Debug\net6.0-windows\funkcje.csproj.GenerateResource.cache
+C:\Users\bruno\OneDrive\Pulpit\funkcje-master\funkcje\obj\Debug\net6.0-windows\funkcje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\OneDrive\Pulpit\funkcje-master\funkcje\obj\Debug\net6.0-windows\funkcje.AssemblyInfoInputs.cache
+C:\Users\bruno\OneDrive\Pulpit\funkcje-master\funkcje\obj\Debug\net6.0-windows\funkcje.AssemblyInfo.cs
+C:\Users\bruno\OneDrive\Pulpit\funkcje-master\funkcje\obj\Debug\net6.0-windows\funkcje.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Pulpit\funkcje-master\funkcje\obj\Debug\net6.0-windows\funkcje.dll
+C:\Users\bruno\OneDrive\Pulpit\funkcje-master\funkcje\obj\Debug\net6.0-windows\refint\funkcje.dll
+C:\Users\bruno\OneDrive\Pulpit\funkcje-master\funkcje\obj\Debug\net6.0-windows\funkcje.pdb
+C:\Users\bruno\OneDrive\Pulpit\funkcje-master\funkcje\obj\Debug\net6.0-windows\funkcje.genruntimeconfig.cache
+C:\Users\bruno\OneDrive\Pulpit\funkcje-master\funkcje\obj\Debug\net6.0-windows\ref\funkcje.dll
