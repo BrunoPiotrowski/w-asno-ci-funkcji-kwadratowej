@@ -1,0 +1,1 @@
+# w-asno-ci-funkcji-kwadratowej
